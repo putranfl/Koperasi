@@ -1,0 +1,10 @@
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Insert Data\Insert Data\bin\Debug\Insert Data.exe.config
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Insert Data\Insert Data\bin\Debug\Insert Data.exe
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Insert Data\Insert Data\bin\Debug\Insert Data.pdb
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Insert Data\Insert Data\bin\Debug\Insert Data.xml
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Insert Data\Insert Data\obj\Debug\Insert_Data.Form1.resources
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Insert Data\Insert Data\obj\Debug\Insert_Data.Resources.resources
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Insert Data\Insert Data\obj\Debug\Insert Data.vbproj.GenerateResource.Cache
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Insert Data\Insert Data\obj\Debug\Insert Data.exe
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Insert Data\Insert Data\obj\Debug\Insert Data.xml
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Insert Data\Insert Data\obj\Debug\Insert Data.pdb

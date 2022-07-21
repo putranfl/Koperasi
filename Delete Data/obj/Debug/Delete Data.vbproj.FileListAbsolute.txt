@@ -1,0 +1,33 @@
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\11 Hapus Data\Delete Data\bin\Debug\Insert Data.exe.config
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\11 Hapus Data\Delete Data\obj\Debug\Insert Data.exe
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\11 Hapus Data\Delete Data\obj\Debug\Insert Data.xml
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\11 Hapus Data\Delete Data\obj\Debug\Insert Data.pdb
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\11 Hapus Data\Delete Data\bin\Debug\Insert Data.exe
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\11 Hapus Data\Delete Data\bin\Debug\Insert Data.pdb
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\11 Hapus Data\Delete Data\bin\Debug\Insert Data.xml
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\11 Hapus Data\Delete Data\obj\Debug\Insert_Data.Form1.resources
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\11 Hapus Data\Delete Data\obj\Debug\Insert_Data.Resources.resources
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\11 Hapus Data\Delete Data\obj\Debug\Delete Data.vbproj.GenerateResource.Cache
+F:\Pengolahan-Data-Inset-Update-Delete\Delete Data\bin\Debug\Insert Data.exe.config
+F:\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Insert Data.exe
+F:\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Insert Data.xml
+F:\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Insert Data.pdb
+F:\KI\VB Tutorial\Pengolahan-Data-Inset-Update-Delete\Delete Data\bin\Debug\Insert Data.exe.config
+F:\KI\VB Tutorial\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Insert Data.exe
+F:\KI\VB Tutorial\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Insert Data.xml
+F:\KI\VB Tutorial\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Insert Data.pdb
+C:\Users\Putra Naufal\Desktop\Pengolahan-Data-Inset-Update-Delete\Delete Data\bin\Debug\Insert Data.exe.config
+C:\Users\Putra Naufal\Desktop\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Insert Data.exe
+C:\Users\Putra Naufal\Desktop\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Insert Data.xml
+C:\Users\Putra Naufal\Desktop\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Insert Data.pdb
+C:\Users\Putra Naufal\Desktop\Pengolahan-Data-Inset-Update-Delete\Delete Data\bin\Debug\Insert Data.exe
+C:\Users\Putra Naufal\Desktop\Pengolahan-Data-Inset-Update-Delete\Delete Data\bin\Debug\Insert Data.pdb
+C:\Users\Putra Naufal\Desktop\Pengolahan-Data-Inset-Update-Delete\Delete Data\bin\Debug\Insert Data.xml
+C:\Users\Putra Naufal\Desktop\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Insert_Data.Form1.resources
+C:\Users\Putra Naufal\Desktop\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Insert_Data.Resources.resources
+C:\Users\Putra Naufal\Desktop\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Delete Data.vbproj.GenerateResource.Cache
+C:\Users\Putra Naufal\Desktop\Pengolahan-Data-Inset-Update-Delete\Delete Data\obj\Debug\Delete Data.vbprojResolveAssemblyReference.cache
+C:\Users\Putra Naufal\Documents\Visual Studio 2015\Projects\Koperasi\Delete Data\bin\Debug\Insert Data.exe.config
+C:\Users\Putra Naufal\Documents\Visual Studio 2015\Projects\Koperasi\Delete Data\obj\Debug\Insert Data.exe
+C:\Users\Putra Naufal\Documents\Visual Studio 2015\Projects\Koperasi\Delete Data\obj\Debug\Insert Data.xml
+C:\Users\Putra Naufal\Documents\Visual Studio 2015\Projects\Koperasi\Delete Data\obj\Debug\Insert Data.pdb

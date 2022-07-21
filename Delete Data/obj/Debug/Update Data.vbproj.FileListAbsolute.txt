@@ -1,0 +1,4 @@
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Update data\Update Data\bin\Debug\Insert Data.exe.config
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Update data\Update Data\obj\Debug\Insert Data.exe
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Update data\Update Data\obj\Debug\Insert Data.xml
+F:\PROJECT\BLOG\Belajar Pemrograman Visual Basic\Project\Update data\Update Data\obj\Debug\Insert Data.pdb
